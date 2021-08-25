@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 stock v1
 promotion v2
-=======
-- stock v3
-- promotion v4
 - log v1
->>>>>>> feature1
+
